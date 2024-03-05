@@ -1,1 +1,1 @@
-clang++ main.cpp -o main -Wall -Wextra
+clang++ main.cpp lexer.cpp -o build/main -Wall -Wextra
